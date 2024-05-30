@@ -53,15 +53,24 @@ const INFO = {
 		{
 			title: "Figma design to responsive website",
 			description:
-				"Led the development of a secure and user-friendly password generator application using JavaScript and React. Implemented a robust algorithm to generate strong, random passwords adhering to industry-standard security guidelines. Seamlessly integrated React components to provide a intuitive and responsive user interface, allowing users to customize password length, include specific character sets, and copy generated passwords with a single click. Leveraged React's state management and event handling capabilities to ensure efficient updates and seamless interactivity. Employed JavaScript's built-in cryptographic functions and secure random number generators to enhance password strength and unpredictability. Implemented client-side validation and input sanitization to prevent potential security vulnerabilities. Collaborated closely with the design team to deliver an aesthetically pleasing and accessible user experience across various devices and screen sizes.",
+				"Led the conversion of a Figma design into a responsive web app using React. Translated visual elements into pixel-perfect, reusable components for seamless rendering across devices. Implemented dynamic layouts, responsive media queries, and optimized asset delivery. Utilized React's lifecycle methods, state management, and efficient rendering for a smooth UI. Collaborated with designers, ensuring cross-browser compatibility and accessibility. Employed React's virtual DOM and JSX for streamlined development and separation of concerns.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://asignment-complete.vercel.app/",
 		},
 		{
+			title: "Employee details list ",
+			description:
+				"Developed an employee details list application using React and JavaScript. Implemented a user-friendly interface with React components for displaying employee information in a tabular format. Utilized React's state management and event handling for efficient data updates and user interactions.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://employee-list-six.vercel.app/",
+		},
+		{
 			title: "password generator",
 			description:
-				"Led the conversion of a Figma design into a fully responsive web application using React, leveraging modern front-end technologies and best practices. Demonstrated proficiency in translating intricate visual elements into pixel-perfect, reusable React components, ensuring seamless rendering across various devices and screen sizes. Implemented dynamic layouts, responsive media queries, and optimized asset delivery for enhanced user experience. Utilized React's component lifecycle methods, state management, and efficient rendering techniques to create a smooth and performant user interface. Collaborated closely with designers to accurately capture the intended design aesthetic while maintaining cross-browser compatibility and adhering to web accessibility standards. Employed React's virtual DOM and JSX syntax to streamline development and maintain a clear separation of concerns between markup and logic.",
+				"Led the development of a secure password generator app using JavaScript and React. Implemented a robust algorithm to generate strong passwords adhering to security guidelines. Integrated React components for an intuitive UI, allowing customization and one-click password copying. Leveraged React's state management and JavaScript's cryptographic functions for efficiency and enhanced security. Implemented client-side validation and collaborated with the design team for an accessible user experience.",
+
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://password-generator-livid-beta.vercel.app/",
@@ -74,7 +83,7 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://github.com/chandan-kumar-km/smart_security_pole",
 		},
-		
+
 	],
 };
 
