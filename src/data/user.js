@@ -58,6 +58,14 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://github.com/chandan-kumar-km/smart_security_pole",
 		},
+		{
+			title: "Figma design to responsive website",
+			description:
+				"Led the conversion of a Figma design into a fully responsive web application using React, leveraging modern front-end technologies and best practices. Demonstrated proficiency in translating intricate visual elements into pixel-perfect, reusable React components, ensuring seamless rendering across various devices and screen sizes. Implemented dynamic layouts, responsive media queries, and optimized asset delivery for enhanced user experience. Utilized React's component lifecycle methods, state management, and efficient rendering techniques to create a smooth and performant user interface. Collaborated closely with designers to accurately capture the intended design aesthetic while maintaining cross-browser compatibility and adhering to web accessibility standards. Employed React's virtual DOM and JSX syntax to streamline development and maintain a clear separation of concerns between markup and logic.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "View Project",
+			link: "https://asignment-complete.vercel.app/",
+		},
 	],
 };
 
